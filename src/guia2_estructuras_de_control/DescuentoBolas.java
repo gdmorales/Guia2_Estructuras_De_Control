@@ -20,5 +20,6 @@ public class DescuentoBolas {
             default:
                 break;
         }
+        System.exit(0);
     }
 }

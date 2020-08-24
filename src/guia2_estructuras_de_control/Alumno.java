@@ -20,5 +20,6 @@ public class Alumno {
                 JOptionPane.showMessageDialog(null,"El alumno esta REPROBADO", "Error", JOptionPane.ERROR_MESSAGE);
             }
         }
+        System.exit(0);
     }
 }
